@@ -1,7 +1,9 @@
 # 📊 Media Performance Framework & Dashboard Regional 2026
 
 
-https://lookerstudio.google.com/reporting/d4db3c78-9b95-4773-949d-087be2e1fb70
+[Looker]("https://lookerstudio.google.com/reporting/d4db3c78-9b95-4773-949d-087be2e1fb70")
+[Video Presentación]("https://drive.google.com/file/d/1-nlscVwPX6yL1nVsATNeeH_KNHZVTdYm/view?usp=sharing")
+[Diagrama]("https://github.com/emraco/Prueba_data_martech/blob/main/resources/diagram_arquitecture_gcp_marketing.gif")
 
 
 ## 📝 Resumen del Proyecto
