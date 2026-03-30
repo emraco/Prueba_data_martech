@@ -1,0 +1,7 @@
+# Virtual envs
+.venv/
+**/.venv/
+
+# ADK dirs
+.adk/
+**/.adk/
